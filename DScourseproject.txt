@@ -1,0 +1,52 @@
+1)Generate Job Card
+
+	(Check if queue is full)
+	a.4-wheeler
+		1.Washing
+		2.Change Engine oil
+		3.Inspect suspension
+		4.Replace Spark Plug
+		5.Check Wheel allignment
+
+		Input Customer Details
+		(Job Card Generated)
+	b.2-wheeler
+		1.Washing
+		2.Chain Lubrication
+		3.Engine Fluse
+		4.Inspect carborator
+		5.Inspect Battery
+
+		Input Customer Details
+		(Job Card Generated)
+
+2)Service Station/Workshop management
+
+	a.Process a Job
+		1.4-Wheeler
+		2.2-Wheeler
+
+	b.Next Job in queue
+		1.4-Wheeler
+		2.2-Wheeler
+
+	b.Overall Unprocessed jobs (queue)
+		1.4-Wheeler
+		2.2-Wheeler
+
+3)Customer management
+
+	a.Generate Bill
+		(Use Customer id)
+		(Generate only if job is processed)
+
+	b.View all customers of Today(File)
+		(Read from file)
+
+4)Exit
+
+
+
+
+PassWord Protected
+Clear the database(file)
